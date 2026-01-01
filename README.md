@@ -71,7 +71,7 @@ VECTOR_DIMENSION=384
 VECTOR_DISTANCE_METRIC=cosine
 
 # LLM Configuration (optional - defaults to provided endpoint)
-LLM_ENDPOINT=http://144.24.121.168:5000/generate
+LLM_ENDPOINT={your llm endpoint}
 
 # For external vector databases, add:
 # PINECONE_API_KEY=your_key (for Pinecone)
